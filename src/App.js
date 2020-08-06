@@ -1,13 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
+import Header from './Components/Header'
+import Parttwo from './Components/Parttwo'
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <img src="/Images/matches.png"/>
-    </div>
-  );
+     <Header/>
+     <Parttwo/>
+     </div>
+   
+  )
+
 }
 
 export default App;
