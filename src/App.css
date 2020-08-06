@@ -11,10 +11,25 @@ margin-top:60px
 .title{
   color: white;
   text-align: center;
-  padding-top: 80px;
+  padding-top: 50px;
  
 }
 .textheader{
   text-align: center;
   color: white;
+}
+.linktext1{
+  color: white;
+  text-decoration: none;
+}
+.linktext2{
+  color: white;
+  background-color: black;
+  border: solid black;
+  padding:10px;
+  text-decoration: none;
+  
+}
+.issuetext{
+  padding-top: 80px;
 }
